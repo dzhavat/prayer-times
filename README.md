@@ -1,2 +1,2 @@
-# prayer-times
-Prayer times for Denmark
+# Prayer times for Denmark
+
