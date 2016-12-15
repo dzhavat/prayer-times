@@ -7,6 +7,8 @@
 
 ### Bulgaria
 * [Sofia] (BG/Sofia.json)
+* [Gotse Delchev] (BG/Gotse-Delchev.json)
+* [Yakoruda] (BG/Yakoruda.json)
 
 ### England
 * [London] (ENG/London.json)
