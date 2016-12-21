@@ -7,13 +7,18 @@
 
 ### Bulgaria
 * [Aytos] (BG/Aytos.json)
+* [Balchik] (BG/Balchik.json)
 * [Burgas] (BG/Burgas.json)
+* [Byala] (BG/Byala.json)
+* [Varna] (BG/Varna.json)
 * [Velingrad] (BG/Velingrad.json)
 * [Veliki Preslav] (BG/Veliki-Preslav.json)
 * [Velito Tarnovo] (BG/Velito-Tarnovo.json)
 * [Gorna Oryahovitsa] (BG/Gorna-Oryahovitsa.json)
 * [Gotse Delchev] (BG/Gotse-Delchev.json)
+* [Dobrich] (BG/Dobrich.json)
 * [Isperih] (BG/Isperih.json)
+* [Kavarna] (BG/Kavarna.json)
 * [Kaolinovo] (BG/Kaolinovo.json)
 * [Karnobat] (BG/Karnobat.json)
 * [Karlovo] (BG/Karlovo.json)
