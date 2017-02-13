@@ -4,6 +4,7 @@
 * [Aalborg] (DK/Aalborg.json)
 * [Aarhus] (DK/Aarhus.json)
 * [Kolding] (DK/Kolding.json)
+* [Sønderborg‎] (DK/Soenderborg.json)
 
 ### Bulgaria
 * [Aytos] (BG/Aytos.json)
