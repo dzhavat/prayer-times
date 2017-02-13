@@ -1,4 +1,8 @@
 {
+  "source": {
+    "title": "Al Wakf",
+    "link": "http://alwakf.dk/"
+  },
   "names": [
     "Fajr", "Shoruq", "Dhuhr", "Asr", "Maghrib", "Ishaa"
   ],
