@@ -1,4 +1,8 @@
 {
+  "source": {
+    "title": "Главно мюфтийство",
+    "link": "http://grandmufti.bg/bg/"
+  },
   "names": [
     "Fajr", "Shoruq", "Dhuhr", "Asr", "Maghrib", "Ishaa"
   ],
