@@ -55,3 +55,6 @@
 
 ### England
 * [London] (ENG/London.json)
+
+### Sweden
+* [Malmö] (SE/Malmo.json)
