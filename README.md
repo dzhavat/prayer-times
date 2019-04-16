@@ -14,7 +14,7 @@
 * [Varna](BG/Varna.json)
 * [Velingrad](BG/Velingrad.json)
 * [Veliki Preslav](BG/Veliki-Preslav.json)
-* [Velito Tarnovo](BG/Velito-Tarnovo.json)
+* [Veliko Tarnovo](BG/Veliko-Tarnovo.json)
 * [Gorna Oryahovitsa](BG/Gorna-Oryahovitsa.json)
 * [Gotse Delchev](BG/Gotse-Delchev.json)
 * [Dobrich](BG/Dobrich.json)
